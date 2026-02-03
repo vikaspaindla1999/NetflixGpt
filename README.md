@@ -3,6 +3,23 @@
 - Configured TailwindCss
 - Header
 - Login form
+- Routing of App
+- Sign up Form
+- Form Validation
+- useRef Hook
+- add hardcoded values in constants file
+- Register TMDB API & create an app & get access Token
+- Get Data from TMDB now playing movies list API
+- Custom hook for Now playing Movies
+- Create movieSlice
+- Update store with movies Data
+- Planning for MainContainer & Secondary Container
+- Fetch Data for Trailer Video
+- Update Store with Trailer Video Data
+- Embedded the youtube video and make it autoplay and mute
+- Tailwind classes to make Main container look awesome.
+
+
 
 # Features
 - Login/Sign Up
